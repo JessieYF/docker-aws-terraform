@@ -1,7 +1,7 @@
 FROM docker:dind
 
 ENV PATH /root/.local/bin:$PATH
-ENV TERRAFORM_VERSION 0.11.6
+ENV TERRAFORM_VERSION 0.11.7
 
 USER root
 
